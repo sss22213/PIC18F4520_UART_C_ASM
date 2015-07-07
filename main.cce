@@ -1,0 +1,10 @@
+Warning[000] D:\project\PIC\PIC_projext\UART\main.c 8 : illegal conversion of pointer to integer
+Warning[000] D:\project\PIC\PIC_projext\UART\main.c 8 : illegal conversion of pointer to integer
+Warning[000] D:\project\PIC\PIC_projext\UART\main.c 11 : unknown pragma code
+Warning[000] D:\project\PIC\PIC_projext\UART\main.c 11 : unknown pragma UART
+Warning[000] D:\project\PIC\PIC_projext\UART\main.c 11 : unknown pragma =
+Warning[000] D:\project\PIC\PIC_projext\UART\main.c 11 : unknown pragma 0x08
+Warning[000] D:\project\PIC\PIC_projext\UART\main.c 63 : unknown pragma code
+Warning[000] D:\project\PIC\PIC_projext\UART\main.c 63 : unknown pragma main
+Warning[000] D:\project\PIC\PIC_projext\UART\main.c 63 : unknown pragma =
+Warning[000] D:\project\PIC\PIC_projext\UART\main.c 63 : unknown pragma 0x00
